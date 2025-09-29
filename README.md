@@ -43,3 +43,6 @@ d. save the file
 ```bash
 python automate_login_selenium_python.py
 ```
+
+Gaurav Chopra
+gauravchopracg@gmail.com
